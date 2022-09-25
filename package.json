@@ -1,6 +1,6 @@
 {
   "name": "kk8s",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple cli to help you change between kubernetes clusters",
   "main": "index.js",
   "type": "module",
